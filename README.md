@@ -1,3 +1,3 @@
 # TESTE-HTML
 
-### Testando funcionalidades do HTML pelo projeto TransformaTec
+### Testando funcionalidades do HTML e CSS pelo projeto TransformaTec
